@@ -22,6 +22,7 @@ cd product-inventory
 npm install
 npm run dev
 npm run build
+```
 
 ✅ This must work without confusion.
 
@@ -78,7 +79,7 @@ src/
     product.ts
   App.vue
   main.ts
-  
+
   ## Possible Improvements
 
 - Replace mock API with real backend integration

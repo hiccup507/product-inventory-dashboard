@@ -67,6 +67,7 @@ Directly map to the assignment requirements.
 
 ## Folder Structure
 
+```
 src/
   components/
     ProductForm.vue
@@ -78,6 +79,7 @@ src/
     product.ts
   App.vue
   main.ts
+```
 
   ## Possible Improvements
 

@@ -28,11 +28,10 @@ npm run build
 
 ---
 
-# 4️⃣ Features Implemented
+# Features Implemented
 
 Directly map to the assignment requirements.
 
-```md
 ## Features
 
 ### Product Management
